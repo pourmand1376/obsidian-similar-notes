@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased]
+
+### Added
+
+-   **Link similar notes**: Use the Link button on an unlinked result in the sidebar or bottom panel to append a link to the current note.
+
 ## [1.7.0] - 2026-09-05
 
 ### Added
